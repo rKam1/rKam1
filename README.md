@@ -1,8 +1,6 @@
 # Hi there, I'm Ryan! 👋
 
-![Profile Banner](![github-header-image](https://github.com/user-attachments/assets/48358ba9-4495-4d16-b46f-1cc56d50d0ab)
-)  
-_A short tagline or description about yourself._
+![Profile Banner]()  
 
 ## About Me
 
@@ -27,9 +25,9 @@ I'm a **CS Undergrad Student @ Rutgers University New Brunswick** passionate abo
 
 ### Tools & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: [YourEmail@example.com](mailto:YourEmail@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/-ryan-kam)
+- Email: [YourEmail@example.com](ryankam291@gmail.com)
