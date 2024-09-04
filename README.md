@@ -29,5 +29,5 @@ I'm a **CS Undergrad Student @ Rutgers University New Brunswick** passionate abo
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/-ryan-kam)
-- Email: [YourEmail@example.com](ryankam291@gmail.com)
+- LinkedIn: [https://linkedin.com/in/-ryan-kam](https://linkedin.com/in/-ryan-kam)
+- Email: [ryankam291@gmail.com](ryankam291@gmail.com)
