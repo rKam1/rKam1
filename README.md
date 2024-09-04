@@ -1,6 +1,6 @@
 # Hi there, I'm Ryan! 👋
 
-![Profile Banner](![Header](./github-header-image.png))  
+![Profile Banner](github-header-image.png)  
 
 ## About Me
 
